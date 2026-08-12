@@ -7,9 +7,9 @@ Beijing, China
 
 ![Industry LLMs][industry-llms-badge]
 ![Post-training][post-training-badge]
-![AI Agents][agents-badge]
+![Agents][agents-badge]
 ![RAG][rag-badge]
-![Multimodal Reasoning][multimodal-badge]
+![Multimodal][multimodal-badge]
 
 [![Website][website-badge]](https://xiaofengshi.com/)
 [![Google Scholar][google-scholar-badge]](https://scholar.google.com/citations?user=DJLXJtAAAAAJ&hl=en)
