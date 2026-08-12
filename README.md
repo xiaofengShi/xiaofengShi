@@ -2,7 +2,7 @@
 
 # Xiaofeng Shi
 
-**AI Researcher & Engineer @ BAAI xfshi@baai.ac.cn**<br />
+**AI Researcher & Engineer @ BAAI | xfshi@baai.ac.cn** <br />
 Beijing, China
 
 ![Industry LLMs][industry-llms-badge]
