@@ -23,15 +23,20 @@ I am an AI researcher and engineer at the **Beijing Academy of Artificial Intell
 
 ## Selected Research
 
-| Work | Focus | Resources |
-| --- | --- | --- |
-| **Wnuan** (2026, first author / equal contribution) | A three-stage post-training pipeline for question answering over proprietary enterprise knowledge: task-oriented supervision, SFT with general-data replay, and RL on residual errors | [Paper](https://arxiv.org/abs/2608.01862) |
-| **MechVQA / MechVL** (ICML 2026) | A benchmark with 3.3K mechanical drawings and 21K QA pairs, plus a domain-specialized multimodal model trained with SFT and self-play RL | [Paper](https://arxiv.org/abs/2605.30794) · [Code](https://github.com/xiaofengShi/MechVQA) · [Models & Data](https://huggingface.co/collections/XiaofengAlg/mechvqa) |
-| **RAFT** (2026) | Data refinement and adaptive on-policy distillation for domain fine-tuning with alleviated forgetting | [Paper](https://arxiv.org/abs/2606.00147) |
-| **SPAR / SPARBench** (2025, first author) | A multi-agent scholarly retrieval framework using query decomposition, query evolution, and citation-aware exploration | [Paper](https://arxiv.org/abs/2507.15245) · [Code](https://github.com/xiaofengShi/SPAR) · [Dataset](https://huggingface.co/datasets/XiaofengAlg/SPARBench) |
-| **SciSage / SurveyScope** (2025) | Multi-agent scientific survey generation with a benchmark for evaluating high-quality research surveys | [Paper](https://arxiv.org/abs/2506.12689) · [Code](https://github.com/FlagOpen/SciSage) |
-
-Other recent work includes [ChartWalker](https://arxiv.org/abs/2606.23997) for cross-chart RAG, [Closing the Feedback Loop](https://arxiv.org/abs/2606.17591) for insight governance in verbal reinforcement learning, and [Rethinking Supervised Fine-Tuning](https://arxiv.org/abs/2512.21017) for answer-token-aware SFT. Earlier work includes [CareBot](https://doi.org/10.1609/aaai.v39i24.34799) at AAAI 2025, [MoSLD](https://arxiv.org/abs/2412.08946) at COLING 2025, and [CCI3.0-HQ](https://arxiv.org/abs/2410.18505) for high-quality Chinese pre-training data.
+| Year / Venue | Work | Focus | Resources |
+| --- | --- | --- | --- |
+| 2026 | **Wnuan** (first author / equal contribution) | Staged post-training for QA over proprietary enterprise knowledge, combining task-oriented supervision, SFT with general-data replay, and RL on residual errors | [Paper](https://arxiv.org/abs/2608.01862) |
+| ICML 2026 | **MechVQA / MechVL** | A benchmark with 3.3K mechanical drawings and 21K QA pairs, plus a domain-specialized multimodal model trained with SFT and self-play RL | [Paper](https://arxiv.org/abs/2605.30794) · [Code](https://github.com/xiaofengShi/MechVQA) · [Models & Data](https://huggingface.co/collections/XiaofengAlg/mechvqa) |
+| 2026 | **RAFT** | Data refinement and adaptive on-policy distillation for domain fine-tuning while alleviating general-capability forgetting | [Paper](https://arxiv.org/abs/2606.00147) |
+| 2026 | **ChartWalker** | A cross-chart RAG benchmark built with hierarchical knowledge graphs, structure-aware multi-hop sampling, and an agentic baseline | [Paper](https://arxiv.org/abs/2606.23997) |
+| ICML 2026 RLxF Workshop | **Closing the Feedback Loop** | Insight governance for verbal reinforcement learning through structured rules, evidence, skills, and feedback-driven curation | [Paper](https://arxiv.org/abs/2606.17591) |
+| 2025 | **SFTKey** (first author) | A two-stage SFT method that explicitly emphasizes answer-relevant tokens after learning the reasoning and output format | [Paper](https://arxiv.org/abs/2512.21017) |
+| 2025 | **SPAR / SPARBench** (first author) | A multi-agent scholarly retrieval framework using query decomposition, query evolution, and citation-aware exploration | [Paper](https://arxiv.org/abs/2507.15245) · [Code](https://github.com/xiaofengShi/SPAR) · [Dataset](https://huggingface.co/datasets/XiaofengAlg/SPARBench) |
+| 2025 | **SciSage / SurveyScope** (first author) | Multi-agent scientific survey generation with hierarchical reflection and a benchmark for evaluating research surveys | [Paper](https://arxiv.org/abs/2506.12689) · [Code](https://github.com/FlagOpen/SciSage) |
+| AAAI 2025 | **CareBot** | A full-process open-source medical language model covering continual pre-training, SFT, preference alignment, and evaluation | [Paper](https://doi.org/10.1609/aaai.v39i24.34799) · [Models](https://huggingface.co/XiaofengAlg/CareBot_Medical_multi-llama3-8b-instruct) |
+| COLING 2025 | **MoSLD** | A parameter-efficient mixture of shared LoRAs for multi-task learning and out-of-domain generalization | [Paper](https://arxiv.org/abs/2412.08946) |
+| 2024 | **CCI3.0-HQ** | A high-quality 500GB Chinese pre-training corpus produced through a two-stage hybrid filtering pipeline | [Paper](https://arxiv.org/abs/2410.18505) · [Dataset](https://huggingface.co/datasets/BAAI/CCI3-HQ) |
+| 2024 | **Aquila-Med** | A bilingual medical LLM with open continual pre-training, SFT, preference-alignment data, and training recipes | [Paper](https://arxiv.org/abs/2406.12182) · [Models](https://huggingface.co/XiaofengAlg) |
 
 ## Open Models & Data
 
