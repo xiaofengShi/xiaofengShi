@@ -6,7 +6,7 @@
 
 Industry LLMs · Post-training · AI Agents · RAG · Multimodal Reasoning
 
-[Website](https://xiaofengshi.com/) · [Google Scholar](https://scholar.google.com/citations?user=DJLXJtAAAAAJ&hl=en) · [Semantic Scholar](https://www.semanticscholar.org/author/Xiaofeng-Shi/2307379264) · [ORCID](https://orcid.org/0009-0009-6052-7713) · [Hugging Face](https://huggingface.co/XiaofengAlg) · [Email](mailto:xfshi@baai.ac.cn)
+[Website](https://xiaofengshi.com/) · [Google Scholar](https://scholar.google.com/citations?user=DJLXJtAAAAAJ&hl=en) · [Semantic Scholar](https://www.semanticscholar.org/author/Xiaofeng-Shi/2307379264) · [OpenReview](https://openreview.net/profile?id=~Xiaofeng_Shi1) · [ORCID](https://orcid.org/0009-0009-6052-7713) · [Hugging Face](https://huggingface.co/XiaofengAlg) · [Email](mailto:xfshi@baai.ac.cn)
 
 </div>
 
@@ -48,4 +48,4 @@ Other recent work includes [ChartWalker](https://arxiv.org/abs/2606.23997) for c
 
 ## Connect
 
-For the complete publication list, see [Google Scholar](https://scholar.google.com/citations?user=DJLXJtAAAAAJ&hl=en) or [Semantic Scholar](https://www.semanticscholar.org/author/Xiaofeng-Shi/2307379264). Models and datasets are available on [Hugging Face](https://huggingface.co/XiaofengAlg). Research discussions and open-source collaboration are welcome via [email](mailto:xfshi@baai.ac.cn) or GitHub issues.
+For publications and peer-review activity, see [Google Scholar](https://scholar.google.com/citations?user=DJLXJtAAAAAJ&hl=en), [Semantic Scholar](https://www.semanticscholar.org/author/Xiaofeng-Shi/2307379264), and [OpenReview](https://openreview.net/profile?id=~Xiaofeng_Shi1). Models and datasets are available on [Hugging Face](https://huggingface.co/XiaofengAlg). Research discussions and open-source collaboration are welcome via [email](mailto:xfshi@baai.ac.cn) or GitHub issues.
