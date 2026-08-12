@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="assets/profile.jpg" width="132" alt="Xiaofeng Shi" />
-
 # Xiaofeng Shi
 
 **AI Researcher & Engineer @ BAAI**<br />
