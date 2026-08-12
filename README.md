@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://scholar.googleusercontent.com/citations?view_op=medium_photo&amp;user=DJLXJtAAAAAJ&amp;citpid=1" width="132" alt="Xiaofeng Shi" />
+<img src="assets/profile.jpg" width="132" alt="Xiaofeng Shi" />
 
 # Xiaofeng Shi
 
