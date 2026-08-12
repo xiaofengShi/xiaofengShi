@@ -2,7 +2,7 @@
 
 # Xiaofeng Shi
 
-**AI Researcher & Engineer @ BAAI**<br />
+**AI Researcher & Engineer @ BAAI xfshi@baai.ac.cn**<br />
 Beijing, China
 
 ![Industry LLMs][industry-llms-badge]
@@ -17,7 +17,6 @@ Beijing, China
 [![OpenReview][openreview-badge]](https://openreview.net/profile?id=~Xiaofeng_Shi1)
 [![ORCID][orcid-badge]](https://orcid.org/0009-0009-6052-7713)
 [![Hugging Face][hugging-face-badge]](https://huggingface.co/XiaofengAlg)
-[![Email][email-badge]](mailto:xfshi@baai.ac.cn)
 
 </div>
 
