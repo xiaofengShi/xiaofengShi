@@ -2,8 +2,8 @@
 
 # Xiaofeng Shi
 
-**AI Researcher & Engineer @ BAAI | xfshi@baai.ac.cn** <br />
-Beijing, China
+**AI Researcher & Engineer @ BAAI**<br />
+Beijing, China · [xfshi@baai.ac.cn](mailto:xfshi@baai.ac.cn)
 
 ![Industry LLMs][industry-llms-badge]
 ![Post-training][post-training-badge]
@@ -69,9 +69,9 @@ Research discussions and open-source collaboration are welcome.
 
 [industry-llms-badge]: https://img.shields.io/badge/Industry_LLMs-2563EB?style=flat-square
 [post-training-badge]: https://img.shields.io/badge/Post--training-2563EB?style=flat-square
-[agents-badge]: https://img.shields.io/badge/AI_Agents-2563EB?style=flat-square
+[agents-badge]: https://img.shields.io/badge/Agents-2563EB?style=flat-square
 [rag-badge]: https://img.shields.io/badge/RAG-2563EB?style=flat-square
-[multimodal-badge]: https://img.shields.io/badge/Multimodal_Reasoning-2563EB?style=flat-square
+[multimodal-badge]: https://img.shields.io/badge/Multimodal-2563EB?style=flat-square
 
 [website-badge]: https://img.shields.io/badge/Website-18181B?style=for-the-badge&logo=googlechrome&logoColor=white
 [google-scholar-badge]: https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white
@@ -79,8 +79,6 @@ Research discussions and open-source collaboration are welcome.
 [openreview-badge]: https://img.shields.io/badge/OpenReview-8C1B13?style=for-the-badge
 [orcid-badge]: https://img.shields.io/badge/ORCID-5C8C1A?style=for-the-badge&logo=orcid&logoColor=white
 [hugging-face-badge]: https://img.shields.io/badge/Hugging_Face-8A6D00?style=for-the-badge&logo=huggingface&logoColor=white
-[email-badge]: https://img.shields.io/badge/Email-0F766E?style=for-the-badge
-
 [paper-badge]: https://img.shields.io/badge/Paper-B31B1B?style=flat-square&logo=arxiv&logoColor=white
 [doi-badge]: https://img.shields.io/badge/Paper-A31F34?style=flat-square&logo=doi&logoColor=white
 [code-badge]: https://img.shields.io/badge/Code-3F3F46?style=flat-square&logo=github&logoColor=white
