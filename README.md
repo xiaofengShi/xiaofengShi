@@ -13,9 +13,7 @@ Beijing, China · [xfshi@baai.ac.cn](mailto:xfshi@baai.ac.cn)
 
 [![Website][website-badge]](https://xiaofengshi.com/)
 [![Google Scholar][google-scholar-badge]](https://scholar.google.com/citations?user=DJLXJtAAAAAJ&hl=en)
-[![Semantic Scholar][semantic-scholar-badge]](https://www.semanticscholar.org/author/Xiaofeng-Shi/2307379264)
 [![OpenReview][openreview-badge]](https://openreview.net/profile?id=~Xiaofeng_Shi1)
-[![ORCID][orcid-badge]](https://orcid.org/0009-0009-6052-7713)
 [![Hugging Face][hugging-face-badge]](https://huggingface.co/XiaofengAlg)
 
 </div>
@@ -75,9 +73,7 @@ Research discussions and open-source collaboration are welcome.
 
 [website-badge]: https://img.shields.io/badge/Website-18181B?style=for-the-badge&logo=googlechrome&logoColor=white
 [google-scholar-badge]: https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white
-[semantic-scholar-badge]: https://img.shields.io/badge/Semantic_Scholar-1857B6?style=for-the-badge&logo=semanticscholar&logoColor=white
 [openreview-badge]: https://img.shields.io/badge/OpenReview-8C1B13?style=for-the-badge
-[orcid-badge]: https://img.shields.io/badge/ORCID-5C8C1A?style=for-the-badge&logo=orcid&logoColor=white
 [hugging-face-badge]: https://img.shields.io/badge/Hugging_Face-8A6D00?style=for-the-badge&logo=huggingface&logoColor=white
 [paper-badge]: https://img.shields.io/badge/Paper-B31B1B?style=flat-square&logo=arxiv&logoColor=white
 [doi-badge]: https://img.shields.io/badge/Paper-A31F34?style=flat-square&logo=doi&logoColor=white
