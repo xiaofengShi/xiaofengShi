@@ -37,13 +37,13 @@ I am an AI researcher and engineer at the **Beijing Academy of Artificial Intell
 | ICML 2026 | **MechVQA / MechVL** (co-first & corresponding author) | A benchmark with 3.3K mechanical drawings and 21K QA pairs, plus a domain-specialized multimodal model trained with SFT and self-play RL | [![Paper][paper-badge]](https://arxiv.org/abs/2605.30794) [![Code][code-badge]](https://github.com/xiaofengShi/MechVQA) [![Models and Data][models-data-badge]](https://huggingface.co/collections/XiaofengAlg/mechvqa) |
 | 2026 | **RAFT** (co-first & corresponding author) | Data refinement and adaptive on-policy distillation for domain fine-tuning while alleviating general-capability forgetting | [![Paper][paper-badge]](https://arxiv.org/abs/2606.00147) |
 | 2026 | **ChartWalker** (corresponding author) | A cross-chart RAG benchmark built with hierarchical knowledge graphs, structure-aware multi-hop sampling, and an agentic baseline | [![Paper][paper-badge]](https://arxiv.org/abs/2606.23997) |
-| 2025 | **SFTKey** (first author) | A two-stage SFT method that explicitly emphasizes answer-relevant tokens after learning the reasoning and output format | [![Paper][paper-badge]](https://arxiv.org/abs/2512.21017) |
+| 2025 | **Rethinking Supervised Fine-Tuning** (first author; formerly SFTKey) | A two-stage SFT method that explicitly emphasizes answer-relevant tokens after learning the reasoning and output format | [![Paper][paper-badge]](https://arxiv.org/abs/2512.21017) |
 | 2025 | **SPAR / SPARBench** (first author) | A multi-agent scholarly retrieval framework using query decomposition, query evolution, and citation-aware exploration | [![Paper][paper-badge]](https://arxiv.org/abs/2507.15245) [![Code][code-badge]](https://github.com/xiaofengShi/SPAR) [![Dataset][dataset-badge]](https://huggingface.co/datasets/XiaofengAlg/SPARBench) |
-| 2025 | **SciSage / SurveyScope** (first author) | Multi-agent scientific survey generation with hierarchical reflection and a benchmark for evaluating research surveys | [![Paper][paper-badge]](https://arxiv.org/abs/2506.12689) [![Code][code-badge]](https://github.com/FlagOpen/SciSage) |
-| AAAI 2025 | **CareBot** | A full-process open-source medical language model covering continual pre-training, SFT, preference alignment, and evaluation | [![Paper][doi-badge]](https://doi.org/10.1609/aaai.v39i24.34799) [![Models][models-badge]](https://huggingface.co/XiaofengAlg/CareBot_Medical_multi-llama3-8b-instruct) |
+| 2025 | **SciSage / SurveyScope** (first author) | Multi-agent scientific survey generation with hierarchical reflection and a benchmark for evaluating research surveys | [![Paper][paper-badge]](https://arxiv.org/abs/2506.12689) [![Code][code-badge]](https://github.com/FlagOpen/SciSage) [![Dataset][dataset-badge]](https://huggingface.co/datasets/BAAI/SurveyScope) |
+| AAAI 2025 | **CareBot** | A full-process open-source medical language model covering continual pre-training, SFT, preference alignment, and evaluation | [![Paper][doi-badge]](https://doi.org/10.1609/aaai.v39i24.34799) [![Code][code-badge]](https://github.com/FlagOpen/CareBot) [![Models][models-badge]](https://huggingface.co/XiaofengAlg/CareBot_Medical_multi-llama3-8b-instruct) |
 | COLING 2025 | **MoSLD** | A parameter-efficient mixture of shared LoRAs for multi-task learning and out-of-domain generalization | [![Paper][paper-badge]](https://arxiv.org/abs/2412.08946) |
-| 2024 | **CCI3.0-HQ** | A high-quality 500GB Chinese pre-training corpus produced through a two-stage hybrid filtering pipeline | [![Paper][paper-badge]](https://arxiv.org/abs/2410.18505) [![Dataset][dataset-badge]](https://huggingface.co/datasets/BAAI/CCI3-HQ) |
-| 2024 | **Aquila-Med** | A bilingual medical LLM with open continual pre-training, SFT, preference-alignment data, and training recipes | [![Paper][paper-badge]](https://arxiv.org/abs/2406.12182) [![Models][models-badge]](https://huggingface.co/XiaofengAlg) |
+| 2024 | **CCI3.0-HQ** | A high-quality 500GB Chinese pre-training corpus produced through a two-stage hybrid filtering pipeline | [![Paper][paper-badge]](https://arxiv.org/abs/2410.18505) [![Dataset][dataset-badge]](https://huggingface.co/datasets/BAAI/CCI3-HQ) [![Classifier][classifier-badge]](https://huggingface.co/BAAI/CCI3-HQ-Classifier) |
+| 2024 | **Aquila-Med** | A bilingual medical LLM with open continual pre-training, SFT, preference-alignment data, and training recipes | [![Paper][paper-badge]](https://arxiv.org/abs/2406.12182) [![Model][model-badge]](https://huggingface.co/BAAI/AquilaMed-RL) [![SFT Data][sft-data-badge]](https://huggingface.co/datasets/BAAI/AquilaMed-Instruct) [![RL Data][rl-data-badge]](https://huggingface.co/datasets/BAAI/AquilaMed-RL) |
 
 ## Open Models & Data
 
@@ -81,6 +81,10 @@ Research discussions and open-source collaboration are welcome.
 [dataset-badge]: https://img.shields.io/badge/Dataset-8A6D00?style=flat-square&logo=huggingface&logoColor=white
 [models-badge]: https://img.shields.io/badge/Models-8A6D00?style=flat-square&logo=huggingface&logoColor=white
 [models-data-badge]: https://img.shields.io/badge/Models_%26_Data-8A6D00?style=flat-square&logo=huggingface&logoColor=white
+[model-badge]: https://img.shields.io/badge/Model-8A6D00?style=flat-square&logo=huggingface&logoColor=white
+[sft-data-badge]: https://img.shields.io/badge/SFT_Data-8A6D00?style=flat-square&logo=huggingface&logoColor=white
+[rl-data-badge]: https://img.shields.io/badge/RL_Data-8A6D00?style=flat-square&logo=huggingface&logoColor=white
+[classifier-badge]: https://img.shields.io/badge/Classifier-8A6D00?style=flat-square&logo=huggingface&logoColor=white
 
 [industrycorpus2-badge]: https://img.shields.io/badge/IndustryCorpus2-8A6D00?style=flat-square&logo=huggingface&logoColor=white
 [industry-instruction-badge]: https://img.shields.io/badge/Industry_Instruction-8A6D00?style=flat-square&logo=huggingface&logoColor=white
