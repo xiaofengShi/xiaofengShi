@@ -2,100 +2,81 @@
 
 # Xiaofeng Shi
 
-**AI Researcher & Engineer @ BAAI**<br />
-Beijing, China · [xfshi@baai.ac.cn](mailto:xfshi@baai.ac.cn)
+**AI Researcher & Engineer @ Beijing Academy of Artificial Intelligence (BAAI)**
 
-![Industry LLMs][industry-llms-badge]
-![Post-training][post-training-badge]
-![Agents][agents-badge]
-![RAG][rag-badge]
-![Multimodal][multimodal-badge]
+I build **open data, post-training methods, and agentic/multimodal systems** that make foundation models work in specialized domains.
+
+让基础模型真正进入专业领域：开放数据、后训练方法与 Agent / 多模态系统。
 
 [![Website][website-badge]](https://xiaofengshi.com/)
 [![Google Scholar][google-scholar-badge]](https://scholar.google.com/citations?user=DJLXJtAAAAAJ&hl=en)
+[![ORCID][orcid-badge]](https://orcid.org/0009-0009-6052-7713)
 [![OpenReview][openreview-badge]](https://openreview.net/profile?id=~Xiaofeng_Shi1)
+[![Semantic Scholar][semantic-scholar-badge]](https://www.semanticscholar.org/author/Xiaofeng-Shi/2307379264)
 [![Hugging Face][hugging-face-badge]](https://huggingface.co/XiaofengAlg)
 
 </div>
 
-I am an AI researcher and engineer at the **Beijing Academy of Artificial Intelligence (BAAI)**, with previous experience at **ByteDance** and **Meituan**. My work has evolved from computer vision and OCR to large language models, with a current focus on domain adaptation, post-training, agentic systems, retrieval-augmented generation, and multimodal reasoning.
+## Start Here
 
-我目前在北京智源人工智能研究院从事 AI 研究与工程工作，曾就职于字节跳动和美团。我的研究关注如何让大模型真正进入专业领域：从高质量数据、监督微调和强化学习，到 Agent、RAG 与多模态推理，并尽可能将论文对应的代码、模型和数据开放出来。
+### Industrial multimodal reasoning
 
-## Research Interests
+**[MechVQA / MechVL](https://github.com/xiaofengShi/MechVQA)** · ICML 2026 · co-first and corresponding author
 
-- **Domain LLMs & post-training:** data construction, supervised fine-tuning, reinforcement learning, knowledge adaptation, and capability retention
-- **AI agents & retrieval:** academic search, scientific survey generation, agentic RAG, and long-horizon knowledge workflows
-- **Multimodal reasoning:** visual-language models, technical drawing understanding, cross-chart reasoning, and OCR
-- **Open data & models:** multilingual industry corpora, instruction datasets, domain models, benchmarks, and reproducible evaluation
+The first comprehensive mechanical-drawing understanding benchmark, with 3.3K drawings and 21K question-answer pairs, plus a domain-specialized multimodal model trained with SFT and self-play RL.
 
-## Selected Research
+[Paper](https://arxiv.org/abs/2605.30794) · [Code](https://github.com/xiaofengShi/MechVQA) · [Models & Data](https://huggingface.co/collections/XiaofengAlg/mechvqa)
 
-| Year / Venue | Work | Focus | Resources |
+### Agentic research and knowledge systems
+
+**[SPAR](https://github.com/xiaofengShi/SPAR)** and **[SciSage](https://github.com/FlagOpen/SciSage)** · first author
+
+Multi-agent systems for scholarly retrieval and scientific survey generation, accompanied by the SPARBench and SurveyScope evaluation resources.
+
+[SPAR Paper](https://arxiv.org/abs/2507.15245) · [SPARBench](https://huggingface.co/datasets/XiaofengAlg/SPARBench) · [SciSage Paper](https://arxiv.org/abs/2506.12689) · [SurveyScope](https://huggingface.co/datasets/BAAI/SurveyScope)
+
+### Open infrastructure for domain LLMs
+
+I led the development of three BAAI collections spanning multilingual pre-training corpora, instruction data, domain models, and data-quality models:
+
+- **[IndustryCorpus2](https://huggingface.co/collections/BAAI/industrycorpus2)** — multilingual, multi-industry pre-training data, including [DataRater](https://huggingface.co/BAAI/IndustryCorpus2_DataRater) and classification models
+- **[Industry Instruction](https://huggingface.co/collections/BAAI/industry-instruction)** — 2.7M multilingual, multi-industry instruction samples and domain-adapted models
+- **[IndustryCorpus](https://huggingface.co/collections/BAAI/industrycorpus)** — open corpora for finance, medicine, law, education, technology, and other industries
+
+## Recent Research
+
+| Year / Venue | Work | Role / Contribution | Resources |
 | --- | --- | --- | --- |
-| 2026 | **Wnuan** (first author / equal contribution) | Staged post-training for QA over proprietary enterprise knowledge, combining task-oriented supervision, SFT with general-data replay, and RL on residual errors | [![Paper][paper-badge]](https://arxiv.org/abs/2608.01862) |
-| ICML 2026 | **MechVQA / MechVL** (co-first & corresponding author) | A benchmark with 3.3K mechanical drawings and 21K QA pairs, plus a domain-specialized multimodal model trained with SFT and self-play RL | [![Paper][paper-badge]](https://arxiv.org/abs/2605.30794) [![Code][code-badge]](https://github.com/xiaofengShi/MechVQA) [![Models and Data][models-data-badge]](https://huggingface.co/collections/XiaofengAlg/mechvqa) |
-| 2026 | **RAFT** (co-first & corresponding author) | Data refinement and adaptive on-policy distillation for domain fine-tuning while alleviating general-capability forgetting | [![Paper][paper-badge]](https://arxiv.org/abs/2606.00147) |
-| 2026 | **ChartWalker** (corresponding author) | A cross-chart RAG benchmark built with hierarchical knowledge graphs, structure-aware multi-hop sampling, and an agentic baseline | [![Paper][paper-badge]](https://arxiv.org/abs/2606.23997) |
-| 2025 | **Rethinking Supervised Fine-Tuning** (first author; formerly SFTKey) | A two-stage SFT method that explicitly emphasizes answer-relevant tokens after learning the reasoning and output format | [![Paper][paper-badge]](https://arxiv.org/abs/2512.21017) |
-| 2025 | **SPAR / SPARBench** (first author) | A multi-agent scholarly retrieval framework using query decomposition, query evolution, and citation-aware exploration | [![Paper][paper-badge]](https://arxiv.org/abs/2507.15245) [![Code][code-badge]](https://github.com/xiaofengShi/SPAR) [![Dataset][dataset-badge]](https://huggingface.co/datasets/XiaofengAlg/SPARBench) |
-| 2025 | **SciSage / SurveyScope** (first author) | Multi-agent scientific survey generation with hierarchical reflection and a benchmark for evaluating research surveys | [![Paper][paper-badge]](https://arxiv.org/abs/2506.12689) [![Code][code-badge]](https://github.com/FlagOpen/SciSage) [![Dataset][dataset-badge]](https://huggingface.co/datasets/BAAI/SurveyScope) |
-| AAAI 2025 | **CareBot** | A full-process open-source medical language model covering continual pre-training, SFT, preference alignment, and evaluation | [![Paper][doi-badge]](https://doi.org/10.1609/aaai.v39i24.34799) [![Code][code-badge]](https://github.com/FlagOpen/CareBot) [![Models][models-badge]](https://huggingface.co/XiaofengAlg/CareBot_Medical_multi-llama3-8b-instruct) |
-| COLING 2025 | **MoSLD** | A parameter-efficient mixture of shared LoRAs for multi-task learning and out-of-domain generalization | [![Paper][paper-badge]](https://arxiv.org/abs/2412.08946) |
-| 2024 | **CCI3.0-HQ** | A high-quality 500GB Chinese pre-training corpus produced through a two-stage hybrid filtering pipeline | [![Paper][paper-badge]](https://arxiv.org/abs/2410.18505) [![Dataset][dataset-badge]](https://huggingface.co/datasets/BAAI/CCI3-HQ) [![Classifier][classifier-badge]](https://huggingface.co/BAAI/CCI3-HQ-Classifier) |
-| 2024 | **Aquila-Med** | A bilingual medical LLM with open continual pre-training, SFT, preference-alignment data, and training recipes | [![Paper][paper-badge]](https://arxiv.org/abs/2406.12182) [![Model][model-badge]](https://huggingface.co/BAAI/AquilaMed-RL) [![SFT Data][sft-data-badge]](https://huggingface.co/datasets/BAAI/AquilaMed-Instruct) [![RL Data][rl-data-badge]](https://huggingface.co/datasets/BAAI/AquilaMed-RL) |
-| 2019–2023 | **Visual & Multimodal Retrieval** | Visual representation learning, deep metric learning, and large-scale image retrieval, extending to contrastive multimodal representation learning and cross-modal retrieval | [![Scholar][scholar-badge]](https://scholar.google.com/citations?user=DJLXJtAAAAAJ&hl=en) |
-
-## Open Models & Data
-
-- [![IndustryCorpus2][industrycorpus2-badge]](https://huggingface.co/collections/BAAI/industrycorpus2) I led the development of this multilingual, multi-industry pre-training corpus collection, including the [DataRater](https://huggingface.co/BAAI/IndustryCorpus2_DataRater) and classification models
-- [![Industry Instruction][industry-instruction-badge]](https://huggingface.co/collections/BAAI/industry-instruction) I led the development of this 2.7M-sample multilingual, multi-industry instruction collection and its domain-adapted models
-- [![IndustryCorpus][industrycorpus-badge]](https://huggingface.co/collections/BAAI/industrycorpus) I led the development of these open pre-training corpora spanning finance, medicine, law, education, technology, and other industries
-- [![XiaofengAlg][xiaofengalg-badge]](https://huggingface.co/XiaofengAlg) MechVL, CareBot, industry-specific LLMs, MechVQA, SPARBench, and related research releases
+| 2026 | **Wnuan** | First author / equal contribution; staged post-training for enterprise knowledge QA | [Paper](https://arxiv.org/abs/2608.01862) |
+| ICML 2026 | **MechVQA / MechVL** | Co-first & corresponding author; industrial multimodal benchmark and model | [Paper](https://arxiv.org/abs/2605.30794) · [Code](https://github.com/xiaofengShi/MechVQA) · [HF](https://huggingface.co/collections/XiaofengAlg/mechvqa) |
+| 2026 | **RAFT** | Co-first & corresponding author; adaptive on-policy distillation with alleviated forgetting | [Paper](https://arxiv.org/abs/2606.00147) |
+| 2026 | **ChartWalker** | Corresponding author; cross-chart RAG benchmark and agentic baseline | [Paper](https://arxiv.org/abs/2606.23997) |
+| 2025 | **Rethinking Supervised Fine-Tuning** | First author; formerly SFTKey | [Paper](https://arxiv.org/abs/2512.21017) |
+| 2025 | **SPAR / SPARBench** | First author; agentic scholarly retrieval | [Paper](https://arxiv.org/abs/2507.15245) · [Code](https://github.com/xiaofengShi/SPAR) · [Data](https://huggingface.co/datasets/XiaofengAlg/SPARBench) |
+| 2025 | **SciSage / SurveyScope** | First author; scientific survey generation and evaluation | [Paper](https://arxiv.org/abs/2506.12689) · [Code](https://github.com/FlagOpen/SciSage) · [Data](https://huggingface.co/datasets/BAAI/SurveyScope) |
+| AAAI 2025 | **CareBot** | Full-process open-source medical language model | [Paper](https://doi.org/10.1609/aaai.v39i24.34799) · [Code](https://github.com/FlagOpen/CareBot) · [Models](https://huggingface.co/XiaofengAlg/CareBot_Medical_multi-llama3-8b-instruct) |
+| COLING 2025 | **MoSLD** | Parameter-efficient mixture of shared LoRAs | [Paper](https://arxiv.org/abs/2412.08946) |
+| 2024 | **CCI3.0-HQ** | High-quality 500GB Chinese pre-training corpus | [Paper](https://arxiv.org/abs/2410.18505) · [Data](https://huggingface.co/datasets/BAAI/CCI3-HQ) · [Classifier](https://huggingface.co/BAAI/CCI3-HQ-Classifier) |
+| 2024 | **Aquila-Med** | Open bilingual medical LLM, data, and training recipes | [Paper](https://arxiv.org/abs/2406.12182) · [Model](https://huggingface.co/BAAI/AquilaMed-RL) · [SFT Data](https://huggingface.co/datasets/BAAI/AquilaMed-Instruct) · [RL Data](https://huggingface.co/datasets/BAAI/AquilaMed-RL) |
 
 ## Earlier Open Source
 
-- [![CHINESE-OCR][chinese-ocr-badge]](https://github.com/xiaofengShi/CHINESE-OCR) An end-to-end natural-scene Chinese text detection and recognition pipeline built with CTPN, CRNN, and CTC
-- [![Image2Katex][image2katex-badge]](https://github.com/xiaofengShi/Image2Katex) Image-to-LaTeX recognition for printed and handwritten mathematical formulas
-- [![DKT-TensorFlow][dkt-badge]](https://github.com/xiaofengShi/DKT-TensorFlow) A Deep Knowledge Tracing implementation for adaptive learning
+- **[CHINESE-OCR](https://github.com/xiaofengShi/CHINESE-OCR)** — end-to-end natural-scene Chinese text detection and recognition with CTPN, CRNN, and CTC
+- **[Image2Katex](https://github.com/xiaofengShi/Image2Katex)** — image-to-LaTeX recognition for printed and handwritten mathematical formulas
+- **[DKT-TensorFlow](https://github.com/xiaofengShi/DKT-TensorFlow)** — Deep Knowledge Tracing for adaptive learning
 
 ## Connect
 
-Research discussions and open-source collaboration are welcome.
+I welcome research discussions, open-source collaboration, and responsible adoption of the released models and datasets.
 
 [![Email Xiaofeng][email-cta-badge]](mailto:xfshi@baai.ac.cn)
 [![GitHub Issues][issues-badge]](https://github.com/xiaofengShi/xiaofengShi/issues)
 
-[industry-llms-badge]: https://img.shields.io/badge/Industry_LLMs-2563EB?style=flat-square
-[post-training-badge]: https://img.shields.io/badge/Post--training-2563EB?style=flat-square
-[agents-badge]: https://img.shields.io/badge/Agents-2563EB?style=flat-square
-[rag-badge]: https://img.shields.io/badge/RAG-2563EB?style=flat-square
-[multimodal-badge]: https://img.shields.io/badge/Multimodal-2563EB?style=flat-square
-
 [website-badge]: https://img.shields.io/badge/Website-18181B?style=for-the-badge&logo=googlechrome&logoColor=white
 [google-scholar-badge]: https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white
-[scholar-badge]: https://img.shields.io/badge/Scholar-4285F4?style=flat-square&logo=googlescholar&logoColor=white
+[orcid-badge]: https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white
 [openreview-badge]: https://img.shields.io/badge/OpenReview-8C1B13?style=for-the-badge
+[semantic-scholar-badge]: https://img.shields.io/badge/Semantic_Scholar-1857B6?style=for-the-badge&logo=semanticscholar&logoColor=white
 [hugging-face-badge]: https://img.shields.io/badge/Hugging_Face-8A6D00?style=for-the-badge&logo=huggingface&logoColor=white
-[paper-badge]: https://img.shields.io/badge/Paper-B31B1B?style=flat-square&logo=arxiv&logoColor=white
-[doi-badge]: https://img.shields.io/badge/Paper-A31F34?style=flat-square&logo=doi&logoColor=white
-[code-badge]: https://img.shields.io/badge/Code-3F3F46?style=flat-square&logo=github&logoColor=white
-[dataset-badge]: https://img.shields.io/badge/Dataset-8A6D00?style=flat-square&logo=huggingface&logoColor=white
-[models-badge]: https://img.shields.io/badge/Models-8A6D00?style=flat-square&logo=huggingface&logoColor=white
-[models-data-badge]: https://img.shields.io/badge/Models_%26_Data-8A6D00?style=flat-square&logo=huggingface&logoColor=white
-[model-badge]: https://img.shields.io/badge/Model-8A6D00?style=flat-square&logo=huggingface&logoColor=white
-[sft-data-badge]: https://img.shields.io/badge/SFT_Data-8A6D00?style=flat-square&logo=huggingface&logoColor=white
-[rl-data-badge]: https://img.shields.io/badge/RL_Data-8A6D00?style=flat-square&logo=huggingface&logoColor=white
-[classifier-badge]: https://img.shields.io/badge/Classifier-8A6D00?style=flat-square&logo=huggingface&logoColor=white
-
-[industrycorpus2-badge]: https://img.shields.io/badge/IndustryCorpus2-8A6D00?style=flat-square&logo=huggingface&logoColor=white
-[industry-instruction-badge]: https://img.shields.io/badge/Industry_Instruction-8A6D00?style=flat-square&logo=huggingface&logoColor=white
-[industrycorpus-badge]: https://img.shields.io/badge/IndustryCorpus-8A6D00?style=flat-square&logo=huggingface&logoColor=white
-[xiaofengalg-badge]: https://img.shields.io/badge/XiaofengAlg-8A6D00?style=flat-square&logo=huggingface&logoColor=white
-
-[chinese-ocr-badge]: https://img.shields.io/badge/CHINESE--OCR-3F3F46?style=flat-square&logo=github&logoColor=white
-[image2katex-badge]: https://img.shields.io/badge/Image2Katex-3F3F46?style=flat-square&logo=github&logoColor=white
-[dkt-badge]: https://img.shields.io/badge/DKT--TensorFlow-3F3F46?style=flat-square&logo=github&logoColor=white
-
 [email-cta-badge]: https://img.shields.io/badge/xfshi%40baai.ac.cn-0F766E?style=for-the-badge
 [issues-badge]: https://img.shields.io/badge/GitHub_Issues-3F3F46?style=for-the-badge&logo=github&logoColor=white
