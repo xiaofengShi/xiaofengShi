@@ -48,9 +48,9 @@ I am an AI researcher and engineer at the **Beijing Academy of Artificial Intell
 
 ## Open Models & Data
 
-- [![IndustryCorpus2][industrycorpus2-badge]](https://huggingface.co/collections/BAAI/industrycorpus2) Multilingual, multi-industry pre-training corpora with accompanying data-rating and classification models
-- [![Industry Instruction][industry-instruction-badge]](https://huggingface.co/collections/BAAI/industry-instruction) A 2.7M-sample multilingual, multi-industry instruction collection with domain-adapted models
-- [![IndustryCorpus][industrycorpus-badge]](https://huggingface.co/collections/BAAI/industrycorpus) Open pre-training corpora spanning finance, medicine, law, education, technology, and other industries
+- [![IndustryCorpus2][industrycorpus2-badge]](https://huggingface.co/collections/BAAI/industrycorpus2) I led the development of this multilingual, multi-industry pre-training corpus collection, including the [DataRater](https://huggingface.co/BAAI/IndustryCorpus2_DataRater) and classification models
+- [![Industry Instruction][industry-instruction-badge]](https://huggingface.co/collections/BAAI/industry-instruction) I led the development of this 2.7M-sample multilingual, multi-industry instruction collection and its domain-adapted models
+- [![IndustryCorpus][industrycorpus-badge]](https://huggingface.co/collections/BAAI/industrycorpus) I led the development of these open pre-training corpora spanning finance, medicine, law, education, technology, and other industries
 - [![XiaofengAlg][xiaofengalg-badge]](https://huggingface.co/XiaofengAlg) MechVL, CareBot, industry-specific LLMs, MechVQA, SPARBench, and related research releases
 
 ## Earlier Open Source
