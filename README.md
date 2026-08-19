@@ -44,6 +44,7 @@ I am an AI researcher and engineer at the **Beijing Academy of Artificial Intell
 | COLING 2025 | **MoSLD** | A parameter-efficient mixture of shared LoRAs for multi-task learning and out-of-domain generalization | [![Paper][paper-badge]](https://arxiv.org/abs/2412.08946) |
 | 2024 | **CCI3.0-HQ** | A high-quality 500GB Chinese pre-training corpus produced through a two-stage hybrid filtering pipeline | [![Paper][paper-badge]](https://arxiv.org/abs/2410.18505) [![Dataset][dataset-badge]](https://huggingface.co/datasets/BAAI/CCI3-HQ) [![Classifier][classifier-badge]](https://huggingface.co/BAAI/CCI3-HQ-Classifier) |
 | 2024 | **Aquila-Med** | A bilingual medical LLM with open continual pre-training, SFT, preference-alignment data, and training recipes | [![Paper][paper-badge]](https://arxiv.org/abs/2406.12182) [![Model][model-badge]](https://huggingface.co/BAAI/AquilaMed-RL) [![SFT Data][sft-data-badge]](https://huggingface.co/datasets/BAAI/AquilaMed-Instruct) [![RL Data][rl-data-badge]](https://huggingface.co/datasets/BAAI/AquilaMed-RL) |
+| 2019–2023 | **Visual & Multimodal Retrieval** | Visual representation learning, deep metric learning, and large-scale image retrieval, extending to contrastive multimodal representation learning and cross-modal retrieval | [![Scholar][scholar-badge]](https://scholar.google.com/citations?user=DJLXJtAAAAAJ&hl=en) |
 
 ## Open Models & Data
 
@@ -73,6 +74,7 @@ Research discussions and open-source collaboration are welcome.
 
 [website-badge]: https://img.shields.io/badge/Website-18181B?style=for-the-badge&logo=googlechrome&logoColor=white
 [google-scholar-badge]: https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white
+[scholar-badge]: https://img.shields.io/badge/Scholar-4285F4?style=flat-square&logo=googlescholar&logoColor=white
 [openreview-badge]: https://img.shields.io/badge/OpenReview-8C1B13?style=for-the-badge
 [hugging-face-badge]: https://img.shields.io/badge/Hugging_Face-8A6D00?style=for-the-badge&logo=huggingface&logoColor=white
 [paper-badge]: https://img.shields.io/badge/Paper-B31B1B?style=flat-square&logo=arxiv&logoColor=white
