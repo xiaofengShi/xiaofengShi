@@ -51,7 +51,6 @@ I led the development of three BAAI collections spanning multilingual pre-traini
 | ICML 2026 | **MechVQA / MechVL** | Co-first & corresponding author; industrial multimodal benchmark and model | [Paper](https://arxiv.org/abs/2605.30794) · [Code](https://github.com/xiaofengShi/MechVQA) · [HF](https://huggingface.co/collections/XiaofengAlg/mechvqa) |
 | 2026 | **RAFT** | Co-first & corresponding author; adaptive on-policy distillation with alleviated forgetting | [Paper](https://arxiv.org/abs/2606.00147) |
 | 2026 | **ChartWalker** | Corresponding author; cross-chart RAG benchmark and agentic baseline | [Paper](https://arxiv.org/abs/2606.23997) · [Code](https://github.com/downing777/ChartWalker_Pub) |
-| ICML 2026 RLxF Workshop | **Closing the Feedback Loop** | Co-author; experience governance for verbal reinforcement learning in non-stationary environments | [Paper](https://arxiv.org/abs/2606.17591) |
 | 2025 | **Rethinking Supervised Fine-Tuning** | First author; formerly SFTKey | [Paper](https://arxiv.org/abs/2512.21017) |
 | 2025 | **SPAR / SPARBench** | First author; agentic scholarly retrieval | [Paper](https://arxiv.org/abs/2507.15245) · [Code](https://github.com/xiaofengShi/SPAR) · [Data](https://huggingface.co/datasets/XiaofengAlg/SPARBench) |
 | 2025 | **SciSage / SurveyScope** | First author; scientific survey generation and evaluation | [Paper](https://arxiv.org/abs/2506.12689) · [Code](https://github.com/FlagOpen/SciSage) · [Data](https://huggingface.co/datasets/BAAI/SurveyScope) |
