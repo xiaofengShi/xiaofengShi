@@ -8,7 +8,8 @@ I build **open data, post-training methods, and agentic/multimodal systems** tha
 
 让基础模型真正进入专业领域：开放数据、后训练方法与 Agent / 多模态系统。
 
-[![Website][website-badge]](https://xiaofengshi.com/)
+[![Research Website][research-website-badge]](https://xiaofengshi-research.pages.dev/)
+[![Blog][blog-badge]](https://xiaofengshi.com/)
 [![Google Scholar][google-scholar-badge]](https://scholar.google.com/citations?user=DJLXJtAAAAAJ&hl=en)
 [![ORCID][orcid-badge]](https://orcid.org/0009-0009-6052-7713)
 [![OpenReview][openreview-badge]](https://openreview.net/profile?id=~Xiaofeng_Shi1)
@@ -72,7 +73,8 @@ I welcome research discussions, open-source collaboration, and responsible adopt
 [![Email Xiaofeng][email-cta-badge]](mailto:xfshi@baai.ac.cn)
 [![GitHub Issues][issues-badge]](https://github.com/xiaofengShi/xiaofengShi/issues)
 
-[website-badge]: https://img.shields.io/badge/Website-18181B?style=for-the-badge&logo=googlechrome&logoColor=white
+[research-website-badge]: https://img.shields.io/badge/Research_Website-18181B?style=for-the-badge&logo=googlechrome&logoColor=white
+[blog-badge]: https://img.shields.io/badge/Blog-0F766E?style=for-the-badge&logo=hexo&logoColor=white
 [google-scholar-badge]: https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white
 [orcid-badge]: https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white
 [openreview-badge]: https://img.shields.io/badge/OpenReview-8C1B13?style=for-the-badge
