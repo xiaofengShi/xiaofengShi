@@ -4,7 +4,7 @@
 
 Open data, post-training, and agentic/multimodal systems for specialized domains.
 
-[Research](https://xiaofengshi-research.pages.dev/) | [Blog](https://xiaofengshi.com/) | [Scholar](https://scholar.google.com/citations?user=DJLXJtAAAAAJ&hl=en) | [ORCID](https://orcid.org/0009-0009-6052-7713) | [Hugging Face](https://huggingface.co/XiaofengAlg)
+[Research](https://xiaofengshi-research.pages.dev/) | [Blog](https://xiaofengshi.com/) | [Email](mailto:xfshi@baai.ac.cn) | [Hugging Face](https://huggingface.co/XiaofengAlg)
 
 </div>
 
@@ -23,7 +23,3 @@ My full paper list is available on my [personal homepage](https://xiaofengshi-re
 - **[CHINESE-OCR](https://github.com/xiaofengShi/CHINESE-OCR)**: end-to-end natural-scene Chinese text detection and recognition with CTPN, CRNN, and CTC
 - **[Image2Katex](https://github.com/xiaofengShi/Image2Katex)**: image-to-LaTeX recognition for printed and handwritten mathematical formulas
 - **[DKT-TensorFlow](https://github.com/xiaofengShi/DKT-TensorFlow)**: Deep Knowledge Tracing for adaptive learning
-
-## Connect
-
-[Email](mailto:xfshi@baai.ac.cn) | [GitHub Issues](https://github.com/xiaofengShi/xiaofengShi/issues)
