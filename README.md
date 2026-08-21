@@ -2,7 +2,9 @@
 
 **AI Researcher & Engineer @ BAAI**
 
-Open data, post-training, and agentic/multimodal systems for specialized domains.
+I am an AI researcher and engineer interested in making foundation models useful in specialized domains. My work spans open datasets, domain adaptation, post-training and reinforcement learning, agentic research systems, and multimodal reasoning.
+
+My path has taken me from ByteDance and Meituan to BAAI, where I build end-to-end systems from data and evaluation to models and applications. I care about practical, reproducible research, and I try to release the code, datasets, and tools behind my work whenever possible.
 
 [Research](https://xiaofengshi-research.pages.dev/) | [Blog](https://xiaofengshi.com/) | [Email](mailto:xfshi@baai.ac.cn) | [Hugging Face](https://huggingface.co/XiaofengAlg)
 
