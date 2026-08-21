@@ -18,31 +18,26 @@ I build **open data, post-training methods, and agentic/multimodal systems** tha
 
 </div>
 
-## Start Here
+## Selected Research
 
-### Industrial multimodal reasoning
+My full paper list is available on my [personal homepage](https://xiaofengshi-research.pages.dev/).
 
-**[MechVQA / MechVL](https://github.com/xiaofengShi/MechVQA)** · ICML 2026 · co-first and corresponding author
+### Domain adaptation & post-training
 
-The first comprehensive mechanical-drawing understanding benchmark, with 3.3K drawings and 21K question-answer pairs, plus a domain-specialized multimodal model trained with SFT and self-play RL.
+- `2026` · [Inject, Align, Recover (IAR)](https://arxiv.org/abs/2608.20281) · [Wnuan](https://arxiv.org/abs/2608.01862) · [RAFT](https://arxiv.org/abs/2606.00147)
 
-[Paper](https://arxiv.org/abs/2605.30794) · [Code](https://github.com/xiaofengShi/MechVQA) · [Models & Data](https://huggingface.co/collections/XiaofengAlg/mechvqa)
+### Multimodal & analytical reasoning
 
-### Agentic research and knowledge systems
+- `ICML 2026` · [MechVQA / MechVL](https://arxiv.org/abs/2605.30794) · [ChartWalker](https://arxiv.org/abs/2606.23997)
 
-**[SPAR](https://github.com/xiaofengShi/SPAR)** and **[SciSage](https://github.com/FlagOpen/SciSage)** · first author
+### Scholarly agents & scientific systems
 
-Multi-agent systems for scholarly retrieval and scientific survey generation, accompanied by the SPARBench and SurveyScope evaluation resources.
+- `2025` · [SPAR / SPARBench](https://arxiv.org/abs/2507.15245) · [SciSage / SurveyScope](https://arxiv.org/abs/2506.12689)
 
-[SPAR Paper](https://arxiv.org/abs/2507.15245) · [SPARBench](https://huggingface.co/datasets/XiaofengAlg/SPARBench) · [SciSage Paper](https://arxiv.org/abs/2506.12689) · [SurveyScope](https://huggingface.co/datasets/BAAI/SurveyScope)
+### Domain LLMs & open data
 
-### Open infrastructure for domain LLMs
-
-I led the development of three BAAI collections spanning multilingual pre-training corpora, instruction data, domain models, and data-quality models:
-
-- **[IndustryCorpus2](https://huggingface.co/collections/BAAI/industrycorpus2)** — multilingual, multi-industry pre-training data, including [DataRater](https://huggingface.co/BAAI/IndustryCorpus2_DataRater) and classification models
-- **[Industry Instruction](https://huggingface.co/collections/BAAI/industry-instruction)** — 2.7M multilingual, multi-industry instruction samples and domain-adapted models
-- **[IndustryCorpus](https://huggingface.co/collections/BAAI/industrycorpus)** — open corpora for finance, medicine, law, education, technology, and other industries
+- `AAAI 2025` · [CareBot](https://doi.org/10.1609/aaai.v39i24.34799) · `2024` · [CCI3.0-HQ](https://arxiv.org/abs/2410.18505) · [Aquila-Med](https://arxiv.org/abs/2406.12182)
+- BAAI collections · [IndustryCorpus2](https://huggingface.co/collections/BAAI/industrycorpus2) · [Industry Instruction](https://huggingface.co/collections/BAAI/industry-instruction) · [IndustryCorpus](https://huggingface.co/collections/BAAI/industrycorpus)
 
 ## Recent Research
 
