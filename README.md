@@ -48,6 +48,7 @@ I led the development of three BAAI collections spanning multilingual pre-traini
 
 | Year / Venue | Work | Role / Contribution | Resources |
 | --- | --- | --- | --- |
+| 2026 | **Inject, Align, Recover (IAR)** | Co-first & corresponding author; staged post-training for retrieval-free document knowledge internalization | [Paper](https://arxiv.org/abs/2608.20281) |
 | 2026 | **Wnuan** | First author / equal contribution; staged post-training for enterprise knowledge QA | [Paper](https://arxiv.org/abs/2608.01862) |
 | ICML 2026 | **MechVQA / MechVL** | Co-first & corresponding author; industrial multimodal benchmark and model | [Paper](https://arxiv.org/abs/2605.30794) · [Code](https://github.com/xiaofengShi/MechVQA) · [HF](https://huggingface.co/collections/XiaofengAlg/mechvqa) |
 | 2026 | **RAFT** | Co-first & corresponding author; adaptive on-policy distillation with alleviated forgetting | [Paper](https://arxiv.org/abs/2606.00147) |
