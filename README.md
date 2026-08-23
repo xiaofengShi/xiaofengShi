@@ -20,9 +20,6 @@ My full paper list is available on my [research page](https://xiaofengshi.com/re
 - `2025`: **LLM training & adaptation**. [SFTKey](https://arxiv.org/abs/2512.21017) / [MoSLD](https://arxiv.org/abs/2412.08946)
 - `2025 / 2024`: **Domain LLMs & open data**. [CareBot](https://doi.org/10.1609/aaai.v39i24.34799) / [CCI3.0-HQ](https://arxiv.org/abs/2410.18505) / [Aquila-Med](https://arxiv.org/abs/2406.12182)
 - **BAAI collections**. [IndustryCorpus2](https://huggingface.co/collections/BAAI/industrycorpus2) / [Industry Instruction](https://huggingface.co/collections/BAAI/industry-instruction) / [IndustryCorpus](https://huggingface.co/collections/BAAI/industrycorpus)
-- `2024 / 2023`: **Generative audio**. [Mega-TTS 2](https://arxiv.org/abs/2307.07218) / [Make-An-Audio](https://arxiv.org/abs/2301.12661)
-- `2022 / 2021`: **Speech & singing synthesis**. [Dict-TTS](https://arxiv.org/abs/2206.02147) / [DiffSinger](https://arxiv.org/abs/2105.02446) / [NeuralSVB](https://arxiv.org/abs/2202.13277) / [PortaSpeech](https://arxiv.org/abs/2109.15166)
-- `ICLR 2021 / NeurIPS 2019`: **Fast text-to-speech**. [FastSpeech 2](https://arxiv.org/abs/2006.04558) / [FastSpeech](https://arxiv.org/abs/1905.09263)
 
 ## Earlier Open Source
 
