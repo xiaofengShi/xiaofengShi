@@ -6,13 +6,13 @@ I am an AI researcher and engineer interested in making foundation models useful
 
 My path has taken me from ByteDance and Meituan to BAAI, where I build end-to-end systems from data and evaluation to models and applications. I care about practical, reproducible research, and I try to release the code, datasets, and tools behind my work whenever possible.
 
-[Research](https://xiaofengshi-research.pages.dev/) | [Blog](https://xiaofengshi.com/) | [Email](mailto:xfshi@baai.ac.cn) | [Hugging Face](https://huggingface.co/XiaofengAlg)
+[Research](https://xiaofengshi.com/research/) | [Blog](https://xiaofengshi.com/) | [Email](mailto:xfshi@baai.ac.cn) | [Hugging Face](https://huggingface.co/XiaofengAlg)
 
 </div>
 
 ## Selected Research
 
-My full paper list is available on my [personal homepage](https://xiaofengshi-research.pages.dev/).
+My full paper list is available on my [research page](https://xiaofengshi.com/research/).
 
 - `2026`: **Domain adaptation & post-training**. [IAR](https://arxiv.org/abs/2608.20281) / [Wnuan](https://arxiv.org/abs/2608.01862) / [RAFT](https://arxiv.org/abs/2606.00147)
 - `ICML 2026`: **Multimodal & analytical reasoning**. [MechVQA / MechVL](https://arxiv.org/abs/2605.30794) / [ChartWalker](https://arxiv.org/abs/2606.23997)
