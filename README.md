@@ -12,7 +12,7 @@ My path has taken me from ByteDance and Meituan to BAAI, where I build end-to-en
 
 ## Selected Research
 
-My full paper list is available on my [research page](https://xiaofengshi.com/research/).
+My full paper list is available on my [research page](https://xiaofengshi.com/research/). I have published papers at ICML, AAAI, and COLING.
 
 - `2026`: **Domain adaptation & post-training**. [IAR](https://arxiv.org/abs/2608.20281) / [Wnuan](https://arxiv.org/abs/2608.01862) / [RAFT](https://arxiv.org/abs/2606.00147)
 - `2026`: **Multimodal & analytical reasoning**. [MechVQA / MechVL](https://arxiv.org/abs/2605.30794) / [ChartWalker](https://arxiv.org/abs/2606.23997)
