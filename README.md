@@ -6,7 +6,7 @@ I am an AI researcher and engineer interested in making foundation models useful
 
 My path has taken me from ByteDance and Meituan to BAAI, where I build end-to-end systems from data and evaluation to models and applications. I care about practical, reproducible research, and I try to release the code, datasets, and tools behind my work whenever possible.
 
-[Blog](https://xiaofengshi.com/) | [Email](mailto:xfshi@baai.ac.cn) | [Google Scholar](https://scholar.google.com/citations?user=DJLXJtAAAAAJ&hl=en) |  [Hugging Face](https://huggingface.co/XiaofengAlg) |  [Patents](https://xiaofengshi.com/patents/)
+[Blog](https://xiaofengshi.com/)  | [Google Scholar](https://scholar.google.com/citations?user=DJLXJtAAAAAJ&hl=en) |  [Hugging Face](https://huggingface.co/XiaofengAlg) |  [Patents](https://xiaofengshi.com/patents/) | [Email](mailto:xfshi@baai.ac.cn)
 
 </div>
 
