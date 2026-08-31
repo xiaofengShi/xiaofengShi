@@ -15,9 +15,9 @@ My path has taken me from ByteDance and Meituan to BAAI, where I build end-to-en
 My full paper list is available on my [research page](https://xiaofengshi.com/research/).
 
 - `2026`: **Domain adaptation & post-training**. [IAR](https://arxiv.org/abs/2608.20281) / [Wnuan](https://arxiv.org/abs/2608.01862) / [RAFT](https://arxiv.org/abs/2606.00147)
-- `ICML 2026`: **Multimodal & analytical reasoning**. [MechVQA / MechVL](https://arxiv.org/abs/2605.30794) / [ChartWalker](https://arxiv.org/abs/2606.23997)
+- `2026`: **Multimodal & analytical reasoning**. [MechVQA / MechVL](https://arxiv.org/abs/2605.30794) / [ChartWalker](https://arxiv.org/abs/2606.23997)
 - `2025`: **Scholarly agents & scientific systems**. [SPAR / SPARBench](https://arxiv.org/abs/2507.15245) / [SciSage / SurveyScope](https://arxiv.org/abs/2506.12689)
-- `2025`: **LLM training & adaptation**. [SFTKey](https://arxiv.org/abs/2512.21017) / [MoSLD](https://arxiv.org/abs/2412.08946)
+- `2025`: **LLM training & adaptation**.  [MoSLD](https://arxiv.org/abs/2412.08946) / [SFTKey](https://arxiv.org/abs/2512.21017) 
 - `2025 / 2024`: **Domain LLMs & open data**. [CareBot](https://doi.org/10.1609/aaai.v39i24.34799) / [CCI3.0-HQ](https://arxiv.org/abs/2410.18505) / [Aquila-Med](https://arxiv.org/abs/2406.12182)
 - **BAAI collections**. [IndustryCorpus2](https://huggingface.co/collections/BAAI/industrycorpus2) / [Industry Instruction](https://huggingface.co/collections/BAAI/industry-instruction) / [IndustryCorpus](https://huggingface.co/collections/BAAI/industrycorpus)
 
