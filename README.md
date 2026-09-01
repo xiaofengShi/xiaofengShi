@@ -26,9 +26,9 @@ My full paper list is available on my [research page](https://xiaofengshi.com/re
   - [MoSLD](https://arxiv.org/abs/2412.08946) `COLING 2025` / [SFTKey](https://arxiv.org/abs/2512.21017)
 - `2024–25` **Domain LLMs & open data**
   - [CareBot](https://doi.org/10.1609/aaai.v39i24.34799) `AAAI 2025`
-  - [CCI3.0-HQ](https://arxiv.org/abs/2410.18505) / [Aquila-Med](https://arxiv.org/abs/2406.12182)
+  - [Aquila-Med](https://arxiv.org/abs/2406.12182)
 - `2024–` **BAAI open data**
-  - [CCI3.0-HQ](https://huggingface.co/datasets/BAAI/CCI3-HQ) ![Downloads](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fhuggingface.co%2Fapi%2Fdatasets%2FBAAI%2FCCI3-HQ%3Fexpand%3DdownloadsAllTime&query=%24.downloadsAllTime&label=total%20downloads&style=flat-square) — high-quality Chinese pre-training data
+  - [CCI3.0-HQ](https://huggingface.co/datasets/BAAI/CCI3-HQ) ![Downloads](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fhuggingface.co%2Fapi%2Fdatasets%2FBAAI%2FCCI3-HQ%3Fexpand%3DdownloadsAllTime&query=%24.downloadsAllTime&label=total%20downloads&style=flat-square) — high-quality Chinese pre-training data · [Paper](https://arxiv.org/abs/2410.18505)
   - [IndustryCorpus2](https://huggingface.co/datasets/BAAI/IndustryCorpus2) ![Downloads](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fhuggingface.co%2Fapi%2Fdatasets%2FBAAI%2FIndustryCorpus2%3Fexpand%3DdownloadsAllTime&query=%24.downloadsAllTime&label=total%20downloads&style=flat-square) — multilingual multi-industry pre-training corpus
   - [IndustryCorpus](https://huggingface.co/datasets/BAAI/IndustryCorpus) ![Downloads](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fhuggingface.co%2Fapi%2Fdatasets%2FBAAI%2FIndustryCorpus%3Fexpand%3DdownloadsAllTime&query=%24.downloadsAllTime&label=total%20downloads&style=flat-square) — the original multilingual multi-industry corpus
   - [Industry Instruction](https://huggingface.co/datasets/BAAI/IndustryInstruction) ![Downloads](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fhuggingface.co%2Fapi%2Fdatasets%2FBAAI%2FIndustryInstruction%3Fexpand%3DdownloadsAllTime&query=%24.downloadsAllTime&label=total%20downloads&style=flat-square) — multilingual multi-industry instruction data
