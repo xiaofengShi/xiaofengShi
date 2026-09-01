@@ -40,5 +40,3 @@ My full paper list is available on my [research page](https://xiaofengshi.com/re
 - [DKT-TensorFlow](https://github.com/xiaofengShi/DKT-TensorFlow) — deep knowledge tracing
 
 ---
-
-**Open to collaboration** — [xfshi@baai.ac.cn](mailto:xfshi@baai.ac.cn)
