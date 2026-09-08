@@ -1,42 +1,33 @@
-<div align="center">
+# Xiaofeng Shi
 
-**AI Researcher & Engineer @ BAAI**
+**AI Researcher & Engineer at BAAI** · Previously ByteDance and Meituan
 
-I am an AI researcher and engineer interested in making foundation models useful in specialized domains. My work spans open datasets, domain adaptation, post-training and reinforcement learning, agentic research systems, and multimodal reasoning.
+I build foundation-model systems for specialized domains, from open data and post-training to retrieval agents and multimodal reasoning. My work connects research with reusable code, datasets, models, and evaluation tools.
 
-My path has taken me from ByteDance and Meituan to BAAI, where I build end-to-end systems from data and evaluation to models and applications. I care about practical, reproducible research, and I try to release the code, datasets, and tools behind my work whenever possible.
+[Website](https://xiaofengshi.com/) · [Research](https://xiaofengshi.com/research/) · [中文技术档案](https://xiaofengshi.com/blog/) · [Google Scholar](https://scholar.google.com/citations?user=DJLXJtAAAAAJ&hl=en) · [Hugging Face](https://huggingface.co/XiaofengAlg) · [Email](mailto:xfshi@baai.ac.cn)
 
-[Blog](https://xiaofengshi.com/) | [Google Scholar](https://scholar.google.com/citations?user=DJLXJtAAAAAJ&hl=en) | [Hugging Face](https://huggingface.co/XiaofengAlg) | [Patents](https://xiaofengshi.com/patents/) | [Email](mailto:xfshi@baai.ac.cn)
+## Selected research
 
-</div>
+- **[MechVQA / MechVL](https://arxiv.org/abs/2605.30794)** `ICML 2026` — A benchmark and domain-specialized models for understanding mechanical drawings. [Code](https://github.com/xiaofengShi/MechVQA) · [Data & models](https://huggingface.co/collections/XiaofengAlg/mechvqa)
+- **[IAR](https://arxiv.org/abs/2608.20281)** `2026 preprint` — Staged post-training to internalize document knowledge, align question answering, and recover general capabilities without retrieval.
+- **[SPAR / SPARBench](https://arxiv.org/abs/2507.15245)** `2025 preprint` — Multi-agent scholarly retrieval with an evaluation dataset. [Code](https://github.com/xiaofengShi/SPAR) · [Data](https://huggingface.co/datasets/XiaofengAlg/SPARBench)
+- **[SciSage / SurveyScope](https://arxiv.org/abs/2506.12689)** `2025 preprint` — Multi-agent scientific survey generation and evaluation. [Code](https://github.com/FlagOpen/SciSage) · [Data](https://huggingface.co/datasets/BAAI/SurveyScope)
 
-## Selected Research
+More work on **post-training**: [Wnuan](https://arxiv.org/abs/2608.01862) · [RAFT](https://arxiv.org/abs/2606.00147) · [SFTKey](https://arxiv.org/abs/2512.21017) · [MoSLD (COLING 2025)](https://arxiv.org/abs/2412.08946).
 
-My full paper list is available on my [research page](https://xiaofengshi.com/research/). I have published papers at ICML, AAAI, and COLING.
+**Multimodal retrieval and domain models**: [ChartWalker](https://arxiv.org/abs/2606.23997) · [CareBot (AAAI 2025)](https://doi.org/10.1609/aaai.v39i24.34799) · [Aquila-Med](https://arxiv.org/abs/2406.12182).
 
-- `2026` **Domain adaptation & post-training**
-  - [IAR](https://arxiv.org/abs/2608.20281) / [Wnuan](https://arxiv.org/abs/2608.01862) / [RAFT](https://arxiv.org/abs/2606.00147)
-- `2026` **Multimodal & analytical reasoning**
-  - [MechVQA / MechVL](https://arxiv.org/abs/2605.30794) `ICML 2026` — [Code](https://github.com/xiaofengShi/MechVQA) · [Data & models](https://huggingface.co/collections/XiaofengAlg/mechvqa)
-  - [ChartWalker](https://arxiv.org/abs/2606.23997)
-- `2025` **Scholarly agents & scientific systems**
-  - [SPAR / SPARBench](https://arxiv.org/abs/2507.15245) — [Code](https://github.com/xiaofengShi/SPAR) · [Data](https://huggingface.co/datasets/XiaofengAlg/SPARBench)
-  - [SciSage / SurveyScope](https://arxiv.org/abs/2506.12689)
-- `2025` **LLM training & adaptation**
-  - [MoSLD](https://arxiv.org/abs/2412.08946) `COLING 2025` / [SFTKey](https://arxiv.org/abs/2512.21017)
-- `2024–25` **Domain LLMs & open data**
-  - [CareBot](https://doi.org/10.1609/aaai.v39i24.34799) `AAAI 2025`
-  - [Aquila-Med](https://arxiv.org/abs/2406.12182)
-- `2024–` **BAAI open data**
-  - [CCI3.0-HQ](https://huggingface.co/datasets/BAAI/CCI3-HQ) ![Downloads](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fhuggingface.co%2Fapi%2Fdatasets%2FBAAI%2FCCI3-HQ%3Fexpand%3DdownloadsAllTime&query=%24.downloadsAllTime&label=total%20downloads&style=flat-square) — high-quality Chinese pre-training data · [Paper](https://arxiv.org/abs/2410.18505)
-  - [IndustryCorpus2](https://huggingface.co/datasets/BAAI/IndustryCorpus2) ![Downloads](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fhuggingface.co%2Fapi%2Fdatasets%2FBAAI%2FIndustryCorpus2%3Fexpand%3DdownloadsAllTime&query=%24.downloadsAllTime&label=total%20downloads&style=flat-square) — multilingual multi-industry pre-training corpus
-  - [IndustryCorpus](https://huggingface.co/datasets/BAAI/IndustryCorpus) ![Downloads](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fhuggingface.co%2Fapi%2Fdatasets%2FBAAI%2FIndustryCorpus%3Fexpand%3DdownloadsAllTime&query=%24.downloadsAllTime&label=total%20downloads&style=flat-square) — the original multilingual multi-industry corpus
-  - [Industry Instruction](https://huggingface.co/datasets/BAAI/IndustryInstruction) ![Downloads](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fhuggingface.co%2Fapi%2Fdatasets%2FBAAI%2FIndustryInstruction%3Fexpand%3DdownloadsAllTime&query=%24.downloadsAllTime&label=total%20downloads&style=flat-square) — multilingual multi-industry instruction data
+[Full research index](https://xiaofengshi.com/research/) · [Published patent applications](https://xiaofengshi.com/patents/)
 
-## Earlier Open Source
+## Open data at BAAI
 
-- [CHINESE-OCR](https://github.com/xiaofengShi/CHINESE-OCR) ![Stars](https://img.shields.io/github/stars/xiaofengShi/CHINESE-OCR?style=flat-square) — Chinese scene-text detection and recognition
-- [Image2Katex](https://github.com/xiaofengShi/Image2Katex) — image-to-LaTeX formula recognition
-- [DKT-TensorFlow](https://github.com/xiaofengShi/DKT-TensorFlow) — deep knowledge tracing
+- [CCI3.0-HQ](https://huggingface.co/datasets/BAAI/CCI3-HQ) ![CCI3.0-HQ total downloads](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fhuggingface.co%2Fapi%2Fdatasets%2FBAAI%2FCCI3-HQ%3Fexpand%3DdownloadsAllTime&query=%24.downloadsAllTime&label=total%20downloads&style=flat-square) — high-quality Chinese pre-training data · [Paper](https://arxiv.org/abs/2410.18505)
+- [IndustryCorpus2](https://huggingface.co/datasets/BAAI/IndustryCorpus2) ![IndustryCorpus2 total downloads](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fhuggingface.co%2Fapi%2Fdatasets%2FBAAI%2FIndustryCorpus2%3Fexpand%3DdownloadsAllTime&query=%24.downloadsAllTime&label=total%20downloads&style=flat-square) — multilingual multi-industry pre-training corpus
+- [IndustryCorpus](https://huggingface.co/datasets/BAAI/IndustryCorpus) ![IndustryCorpus total downloads](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fhuggingface.co%2Fapi%2Fdatasets%2FBAAI%2FIndustryCorpus%3Fexpand%3DdownloadsAllTime&query=%24.downloadsAllTime&label=total%20downloads&style=flat-square) — the original multilingual multi-industry corpus
+- [Industry Instruction](https://huggingface.co/datasets/BAAI/IndustryInstruction) ![Industry Instruction total downloads](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fhuggingface.co%2Fapi%2Fdatasets%2FBAAI%2FIndustryInstruction%3Fexpand%3DdownloadsAllTime&query=%24.downloadsAllTime&label=total%20downloads&style=flat-square) — multilingual multi-industry instruction data
 
----
+## Earlier open source
+
+- [CHINESE-OCR](https://github.com/xiaofengShi/CHINESE-OCR) ![CHINESE-OCR stars](https://img.shields.io/github/stars/xiaofengShi/CHINESE-OCR?style=flat-square) — Chinese scene-text detection and recognition; legacy project.
+- [Image2Katex](https://github.com/xiaofengShi/Image2Katex) — Image-to-LaTeX recognition for printed and handwritten formulas.
+- [DKT-TensorFlow](https://github.com/xiaofengShi/DKT-TensorFlow) — Deep knowledge tracing in TensorFlow.
