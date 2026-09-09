@@ -4,7 +4,7 @@
 
 I build foundation-model systems for specialized domains, from open data and post-training to retrieval agents and multimodal reasoning. My work connects research with reusable code, datasets, models, and evaluation tools.
 
-[Website](https://xiaofengshi.com/) · [Research](https://xiaofengshi.com/research/) · [中文技术档案](https://xiaofengshi.com/blog/) · [Google Scholar](https://scholar.google.com/citations?user=DJLXJtAAAAAJ&hl=en) · [Hugging Face](https://huggingface.co/XiaofengAlg) · [Email](mailto:xfshi@baai.ac.cn)
+[Website](https://xiaofengshi.com/) · [Google Scholar](https://scholar.google.com/citations?user=DJLXJtAAAAAJ&hl=en) · [Hugging Face](https://huggingface.co/XiaofengAlg) · [Email](mailto:xfshi@baai.ac.cn)
 
 ## Selected research
 
