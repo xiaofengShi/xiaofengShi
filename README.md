@@ -2,7 +2,7 @@
 
 **AI Researcher & Engineer at BAAI** · Previously ByteDance and Meituan
 
-I build foundation-model systems for specialized domains, from open data and post-training to retrieval agents and multimodal reasoning. My work connects research with reusable code, datasets, models, and evaluation tools.
+I build dependable foundation models for specialized domains through post-training, retrieval agents, and multimodal reasoning. Explore the selected projects below for papers, code, datasets, and models.
 
 [Website](https://xiaofengshi.com/) · [Google Scholar](https://scholar.google.com/citations?user=DJLXJtAAAAAJ&hl=en) · [Hugging Face](https://huggingface.co/XiaofengAlg) · [Email](mailto:xfshi@baai.ac.cn)
 
@@ -17,7 +17,7 @@ More work on **post-training**: [Wnuan](https://arxiv.org/abs/2608.01862) · [RA
 
 **Multimodal retrieval and domain models**: [ChartWalker](https://arxiv.org/abs/2606.23997) · [CareBot (AAAI 2025)](https://doi.org/10.1609/aaai.v39i24.34799) · [Aquila-Med](https://arxiv.org/abs/2406.12182).
 
-[Full research index](https://xiaofengshi.com/research/) · [Published patent applications](https://xiaofengshi.com/patents/)
+[Full research index](https://xiaofengshi.com/research/) · [Research collaboration](https://xiaofengshi.com/about/#Collaboration) · [Published patent applications](https://xiaofengshi.com/patents/)
 
 ## Open data at BAAI
 
@@ -25,6 +25,13 @@ More work on **post-training**: [Wnuan](https://arxiv.org/abs/2608.01862) · [RA
 - [IndustryCorpus2](https://huggingface.co/datasets/BAAI/IndustryCorpus2) ![IndustryCorpus2 total downloads](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fhuggingface.co%2Fapi%2Fdatasets%2FBAAI%2FIndustryCorpus2%3Fexpand%3DdownloadsAllTime&query=%24.downloadsAllTime&label=total%20downloads&style=flat-square) — multilingual multi-industry pre-training corpus
 - [IndustryCorpus](https://huggingface.co/datasets/BAAI/IndustryCorpus) ![IndustryCorpus total downloads](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fhuggingface.co%2Fapi%2Fdatasets%2FBAAI%2FIndustryCorpus%3Fexpand%3DdownloadsAllTime&query=%24.downloadsAllTime&label=total%20downloads&style=flat-square) — the original multilingual multi-industry corpus
 - [Industry Instruction](https://huggingface.co/datasets/BAAI/IndustryInstruction) ![Industry Instruction total downloads](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fhuggingface.co%2Fapi%2Fdatasets%2FBAAI%2FIndustryInstruction%3Fexpand%3DdownloadsAllTime&query=%24.downloadsAllTime&label=total%20downloads&style=flat-square) — multilingual multi-industry instruction data
+
+## Contributions to shared projects
+
+These are contributions to projects maintained by their respective organizations and authors:
+
+- **[FlagAI](https://github.com/FlagAI-Open/FlagAI)** — Added the Aquila-SQL training, inference, and evaluation example. [Contribution](https://github.com/FlagAI-Open/FlagAI/commit/aed9b77c2b3448e794c66ae577361fc80db40d81)
+- **[patent-disclosure-skill](https://github.com/handsomestWei/patent-disclosure-skill)** — Added inventor-based patent portfolio retrieval from CNIPA's publication system, with parsing, tests, and documentation. [Contribution](https://github.com/handsomestWei/patent-disclosure-skill/commit/49e9bd040a20c7a1aa776b924ef798ebeca0cd63)
 
 ## Earlier open source
 
