@@ -33,6 +33,12 @@ These are contributions to projects maintained by their respective organizations
 - **[FlagAI](https://github.com/FlagAI-Open/FlagAI)** — Added the Aquila-SQL training, inference, and evaluation example. [Contribution](https://github.com/FlagAI-Open/FlagAI/commit/aed9b77c2b3448e794c66ae577361fc80db40d81)
 - **[patent-disclosure-skill](https://github.com/handsomestWei/patent-disclosure-skill)** — Added inventor-based patent portfolio retrieval from CNIPA's publication system, with parsing, tests, and documentation. [Contribution](https://github.com/handsomestWei/patent-disclosure-skill/commit/49e9bd040a20c7a1aa776b924ef798ebeca0cd63)
 
+## Agent skills and tools
+
+- [paper-reading-skill](https://github.com/xiaofengShi/paper-reading-skill) — Agent skill for visual, source-grounded paper reading: one standalone HTML atlas of methods, equations, and experiments.
+- [prompt-thinking-toolkit](https://github.com/xiaofengShi/prompt-thinking-toolkit) — A thinking-mode router for agents: 12 bounded prompt workflows (Socratic diagnosis, first principles, bidirectional steelman) packaged as a cross-agent SKILL.md for Codex, Claude Code, and Kimi Code.
+- [ai-avatar-skill](https://github.com/xiaofengShi/ai-avatar-skill) — Purpose-driven AI avatars and profile pictures: Codex skill, ChatGPT prompts, examples, and crop previews.
+
 ## Earlier open source
 
 - [CHINESE-OCR](https://github.com/xiaofengShi/CHINESE-OCR) ![CHINESE-OCR stars](https://img.shields.io/github/stars/xiaofengShi/CHINESE-OCR?style=flat-square) — Chinese scene-text detection and recognition; legacy project.
