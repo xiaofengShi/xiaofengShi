@@ -4,7 +4,7 @@
 
 I build dependable foundation models for specialized domains through post-training, retrieval agents, and multimodal reasoning. Explore the selected projects below for papers, code, datasets, and models.
 
-[Website](https://xiaofengshi.com/) · [Google Scholar](https://scholar.google.com/citations?user=DJLXJtAAAAAJ&hl=en) · [Hugging Face](https://huggingface.co/XiaofengAlg) · [Email](mailto:xfshi@baai.ac.cn)
+[Website](https://xiaofengshi.com/) · [Google Scholar](https://scholar.google.com/citations?user=DJLXJtAAAAAJ&hl=en) · [Hugging Face](https://huggingface.co/XiaofengAlg) · [ORCID](https://orcid.org/0009-0009-6052-7713) · [Email](mailto:xfshi@baai.ac.cn)
 
 ## Selected research
 
